@@ -1,0 +1,2 @@
+hello this is a git tutorial
+this is a new line and we are getting used to git
